@@ -1,0 +1,17 @@
+00:00 +0: loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\—                                                      00:00 +0 -1: loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\— [E]                                               
+  Failed to load "D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\—": Does not exist.
+
+To run this test again: C:\src\flutter\bin\cache\dart-sdk\bin\dart.exe test D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\— -p vm --plain-name 'loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\—'
+00:00 +0 -2: loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\machine [E]                                         
+  Failed to load "D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\machine": Does not exist.
+
+To run this test again: C:\src\flutter\bin\cache\dart-sdk\bin\dart.exe test D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\machine -p vm --plain-name 'loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\machine'
+00:00 +0 -3: loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\— [E]                                               
+  Failed to load "D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\—": Does not exist.
+
+To run this test again: C:\src\flutter\bin\cache\dart-sdk\bin\dart.exe test D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\— -p vm --plain-name 'loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\—'
+00:00 +0 -4: loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\coverage [E]                                        
+  Failed to load "D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\coverage": Does not exist.
+
+To run this test again: C:\src\flutter\bin\cache\dart-sdk\bin\dart.exe test D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\coverage -p vm --plain-name 'loading D:\Course Work\College Docs\Semester 3\Cross Platform Application Development\Assignment 1\GROUP2_CPA_Assignment1\assignment1\coverage'
+00:00 +0 -4: Some tests failed.                                                                                                                                                                        
